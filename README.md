@@ -1,7 +1,7 @@
 # 👩‍💻 Olá! Eu sou a Lídia
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💼 Estagiária de Processos
+💼 Estagiária de Sistemas
 🐍 Aprendendo Python com foco em desenvolvimento web
 
 ---
