@@ -8,7 +8,7 @@
 
 ### 💡 Sobre mim
 
-Atualmente estou no 4º período da faculdade e busco aprender todos os dias com desafios reais.  
+Atualmente estou no 5º período da faculdade e busco aprender todos os dias com desafios reais.  
 Gosto de transformar problemas em soluções práticas, e aqui você vai encontrar alguns dos meus estudos, projetos pessoais e experimentos com código.
 
 ---
