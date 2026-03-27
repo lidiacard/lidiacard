@@ -1,15 +1,14 @@
-# 👩‍💻 Olá! Eu sou a Lídia
+# Lídia Cardoso
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💼 Assistente de Sistemas
-🐍 Aprendendo Python com foco em desenvolvimento web
-
+- Estudante de Análise e Desenvolvimento de Sistemas  
+- Assistente de Sistemas
+- 
 ---
 
-### 💡 Sobre mim
+### Sobre mim
 
 Atualmente estou no 5º período da faculdade e busco aprender todos os dias com desafios reais.  
-Gosto de transformar problemas em soluções práticas, e aqui você vai encontrar alguns dos meus estudos, projetos pessoais e experimentos com código.
+Meu foco está no aprendizado de Python e no desenvolvimento web, com interesse em criar soluções práticas, organizadas e voltadas para necessidades reais. Utilizo este espaço para reunir projetos, estudos e experimentos que representam minha trajetória de evolução profissional e acadêmica.
 
 ---
 
