@@ -2,7 +2,6 @@
 
 - Estudante de Análise e Desenvolvimento de Sistemas  
 - Assistente de Sistemas
-- 
 ---
 
 ### Sobre mim
