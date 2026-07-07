@@ -6,8 +6,12 @@
 
 ### Sobre mim
 
-Atualmente estou no 5º período da faculdade e busco aprender todos os dias com desafios reais.  
-Meu foco está no aprendizado de Python e no desenvolvimento web, com interesse em criar soluções práticas, organizadas e voltadas para necessidades reais. Utilizo este espaço para reunir projetos, estudos e experimentos que representam minha trajetória de evolução profissional e acadêmica.
+Tenho experiência com desenvolvimento back-end utilizando Python e Django, criação de APIs REST, SQL, Git e GitHub, além de automação de processos e integrações com n8n.
+
+Também atuo com levantamento de requisitos, otimização de processos, suporte a usuários e implantação de sistemas, unindo tecnologia e negócios para desenvolver soluções eficientes.
+
+Atualmente, estou aprofundando meus estudos em desenvolvimento back-end e construindo projetos focados em Python, Django e APIs.
+
 
 ---
 
